@@ -8,3 +8,13 @@ La mentalidad del crecimiento
 - Ver cada reto como una oportunidad.
 - Aprender de tus errores.
 - Poder salir de tu zona de comfort.
+
+---
+
+## Mi Presentación:
+- Me llamo Andrea Arango.
+- El año pasado culminé la secundaria, estudiaré administración.
+- Principalmente para aprender a programar y poder complementar lo que aprenda en estas clases con mi carrera.
+- Tengo una pequeña empresa de pastelería canina y felina y tengo 6 mascotas
+
+![Gif Externo](https://s5.ezgif.com/tmp/ezgif-5-77af179254.gif)
