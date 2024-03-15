@@ -51,8 +51,8 @@
 .imagen-grande {
     float: right;
     width: 45%; 
-    margin-left: 20 px;
-    border-radius: 10px 
+    margin-left: 30 px;
+    border-radius: 60px 
 }
 .botones {
     display: flex;
