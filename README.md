@@ -16,6 +16,6 @@ En este repositorio se encuentran mis notas sobre cada clase de ENTER TECH SCHOO
 2. [Class02](./class02.md)
 3. [Class03](./class03.md)
 4. [Class04](./class04.md)
-5. [Index](./index.html)
+5. [Index](CODE102/102/turismo/index.html)
 
 
