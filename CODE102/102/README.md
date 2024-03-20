@@ -7,7 +7,7 @@
 ![Gif](https://s5.ezgif.com/tmp/ezgif-5-77af179254.gif)
 
 ## Descripción
-En esta página estarán mis notas sobre cada clase de ENTER TECH SCHOOL.
+En este repositorio se encuentran mis notas sobre cada clase de ENTER TECH SCHOOL.
 
 ## Contenido 
 
