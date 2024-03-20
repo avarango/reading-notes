@@ -19,4 +19,4 @@ En este repositorio se encuentran mis notas sobre cada clase de ENTER TECH SCHOO
 4. [Class04](./class04.md)
 5. [Class05](./class05.md)
 5. [Class06](./class06.md)
-5. [Class07](.CODE102/102/class07.md)
+5. [Class07](./class07.md)
