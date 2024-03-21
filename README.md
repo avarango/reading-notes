@@ -13,10 +13,11 @@ En este repositorio se encuentran mis notas sobre cada clase de ENTER TECH SCHOO
 
 ## Contenido 
 
-1. [Class01](./class01.md)
+1. [Class01](./102/class01.md)
 2. [Class02](./class02.md)
 3. [Class03](./class03.md)
 4. [Class04](./class04.md)
 5. [Class05](./class05.md)
 5. [Class06](./class06.md)
 5. [Class07](./class07.md)
+5. [Class08](./class08.md)
